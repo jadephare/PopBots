@@ -4,11 +4,11 @@ PopBots are a family of quick three to 5 minutes conversation bots that represen
 
 # The family:
 
-- **doom bot** - helps in seeing that while times may get tough, everyone is 
+- **doom bot** - helps in seeing that while times may get tough, everyone is working through stress
 
 - **sherlock bot**- helps you to brainstorm a solution
 
-- **glass-half-full bot** - helps to brainstorm some positives about the situation
+- **glass-half-full bot** - helps you to come up with some positives about the situation
 
 - **Sir Laughs-a-bot** - helps to add a bit of humor to the problems you may face
 
@@ -16,7 +16,7 @@ PopBots are a family of quick three to 5 minutes conversation bots that represen
 
 - **treat yourself bot** - Is the sassy friend that helps you to know that you can offer yourself a hand
 
-- **dunno bot** - is a bot that helps you to brainstorm things that you are excited about in your life
+- **dunno bot** - helps you to brainstorm things that you are excited about in your life
 
 The family of bots are named: ‘**worst case’, ‘problem solving’, ‘positive thinking’, ‘humor’, ‘relaxation’, ‘self love’, ‘distraction’.** I like to think of them as a family of 7 dwarfs.
 
